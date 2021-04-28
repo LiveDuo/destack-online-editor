@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "destack": "^0.7.26",
+    "destack": "^0.7.29",
     "next": "latest",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
